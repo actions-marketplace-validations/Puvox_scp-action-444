@@ -1,4 +1,4 @@
-name: "SCP Command to Transfer Files"
+name: "SCP transfer (fork2)"
 description: "Easily transfer files and folders using the SCP command in Linux."
 author: "Bo-Yi Wu"
 inputs:
